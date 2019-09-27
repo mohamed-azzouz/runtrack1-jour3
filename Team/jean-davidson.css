@@ -1,0 +1,41 @@
+body 
+{
+background-image: url("Photo/carbone.JFIF");
+background-repeat: no-repeat;
+background-size: cover;
+color: white;
+}
+
+.tof
+{
+float: right;
+width: 150px; height: 150px;
+border-radius: 10px 20px;
+box-shadow: 5px 2px 2px blue;
+
+}
+
+.info
+{
+border: 1px solid grey;
+width: 220px;
+box-shadow: 5px 2px 2px blue;
+}
+
+
+.titre 
+{
+color: blue;
+border: 1px solid white;
+border-radius: 2px 2px;
+box-shadow: 5px 2px 2px blue;
+text-align: center;
+}
+
+.loc
+{
+	color: blue;
+}
+
+
+

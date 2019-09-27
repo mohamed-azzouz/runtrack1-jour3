@@ -1,0 +1,40 @@
+body 
+{
+background-image: url("Photo/bleu.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.tof
+{
+float: right;
+width: 150px; height: 150px;
+border-radius: 10px 20px;
+box-shadow: 5px 2px 2px pink;
+
+}
+
+.info
+{
+border: 1px solid white;
+width: 220px;
+box-shadow: 5px 2px 2px pink;
+}
+
+
+.titre 
+{
+color: darkblue;
+border: 1px solid white;
+border-radius: 2px 2px;
+box-shadow: 5px 2px 2px pink;
+text-align: center;
+}
+
+.titre:hover 
+{
+  background-color:pink;
+
+}
+
+

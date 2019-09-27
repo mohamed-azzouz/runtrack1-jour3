@@ -1,0 +1,43 @@
+body
+	{
+    	background-image: url("Team/Photo/back6.jpg");
+    	color: #545454;
+    }
+
+.photo
+	{
+		float: left;
+		padding-top: 0.1em;
+
+	}
+
+.texte
+	{
+		text-align: top,right;
+		color: white;
+		padding-left: 4em;
+	}
+
+div
+	{
+		color: white;
+		border-top-style:dashed;
+		border-bottom-style:dashed;
+
+	}
+h1:hover 
+	{
+		background-color: red;
+	}
+h1
+	{
+		text-align: left;
+		padding-left: 2em;
+		color: #F0F3F4;
+		font-weight: 200;
+   		line-height: 1.3;
+
+	}
+
+
+		

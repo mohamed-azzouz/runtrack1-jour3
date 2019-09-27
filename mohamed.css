@@ -1,0 +1,42 @@
+body
+	{
+    	background-color:grey ;
+    	color: #545454;
+       	font-size: 16px;
+    	line-height: 1.5;
+    	margin: 0 auto;
+   		max-width: 800px;
+   	    padding: 2em 2em 4em;
+    }
+
+
+	}
+.photo
+	{
+		float: right;
+		padding-top: 1.3em;
+
+	}
+
+.texte
+	{
+		text-align: top;
+		border: solid;
+		color: blue;
+	}
+
+div
+	{
+		background-color: orange;
+		color: blue;
+		border-radius: 10px;
+	}
+h1
+	{
+		color: red;
+		font-weight: 200;
+   		line-height: 1.3;
+	}
+
+
+		
